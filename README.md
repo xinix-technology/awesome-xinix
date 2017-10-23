@@ -32,6 +32,8 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 ### Xin
 - [Xin](https://github.com/xinix-technology/xin) - Webcomponents Framework - [reekoheek](https://github.com/reekoheek)
+- [Xin-JWT](https://github.com/reekoheek/xin-jwt) - JWT Middleware Component - [reekoheek](https://github.com/reekoheek)
+
 
 
 [:arrow_up: back to top](#grouping)
