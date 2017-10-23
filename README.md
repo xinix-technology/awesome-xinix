@@ -24,6 +24,7 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 ### Node-Bono
 - [Bono](https://github.com/xinix-technology/node-bono) - Koa-based web framework - [reekoheek](https://github.com/reekoheek)
+- [Bono-Auth](https://github.com/reekoheek/node-bono-auth) - Bono Auth Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
 
 
 [:arrow_up: back to top](#grouping)
