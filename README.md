@@ -2,6 +2,8 @@
 
 :star2: A curated list of awesome things related to Xinix Technology
 
+Proudly by:
+
 ![awesome-xinix](http://sagara.id/wp-content/themes/sagara-web/assets-theme/img/logo.png)
 
 ## Contribution
