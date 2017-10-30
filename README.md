@@ -17,14 +17,15 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 + [Misc](#misc)
 
 ### PHP-Bono
-- [Bono](https://github.com/xinix-technology/bono) - PHP Framework - [reekoheek](https://github.com/reekoheek)
+- [bono](https://github.com/xinix-technology/bono) - PHP Framework - [reekoheek](https://github.com/reekoheek)
 
 
 [:arrow_up: back to top](#grouping)
 
 ### Xin
-- [Xin](https://github.com/xinix-technology/xin) - Webcomponents Framework - [reekoheek](https://github.com/reekoheek)
-- [Xin-JWT](https://github.com/reekoheek/xin-jwt) - JWT Middleware Component - [reekoheek](https://github.com/reekoheek)
+- [xin](https://github.com/xinix-technology/xin) - Webcomponents Framework - [reekoheek](https://github.com/reekoheek)
+- [xin-jwt](https://github.com/reekoheek/xin-jwt) - JWT Middleware Component - [reekoheek](https://github.com/reekoheek)
+- [xin-connect](https://github.com/reekoheek/xin-connect) - Xin REST connection component - [reekoheek](https://github.com/reekoheek)
 
 
 
@@ -32,9 +33,9 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 
 ### Node-Bono
-- [Bono](https://github.com/xinix-technology/node-bono) - Koa-based web framework - [reekoheek](https://github.com/reekoheek)
-- [Bono-Auth](https://github.com/reekoheek/node-bono-auth) - Bono Auth Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
-- [Bono-Norm](https://github.com/reekoheek/node-bono-norm) - Bono Norm Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
+- [bono](https://github.com/xinix-technology/node-bono) - Koa-based web framework - [reekoheek](https://github.com/reekoheek)
+- [bono-auth](https://github.com/reekoheek/node-bono-auth) - Bono Auth Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
+- [bono-norm](https://github.com/reekoheek/node-bono-norm) - Bono Norm Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
 
 
 
@@ -43,7 +44,7 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 ### Node-Norm
 
-- [Node-Norm](https://github.com/xinix-technology/node-norm) - Intermediate layer to access data source (database, file, or else) - [reekoheek](https://github.com/reekoheek)
+- [node-norm](https://github.com/xinix-technology/node-norm) - Intermediate layer to access data source (database, file, or else) - [reekoheek](https://github.com/reekoheek)
 
 
 [:arrow_up: back to top](#grouping)
