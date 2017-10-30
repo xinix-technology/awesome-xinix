@@ -56,5 +56,5 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 
 ## Thanks
-Xinix Technology
+[Sagara](http://sagara.id)
 
