@@ -29,6 +29,7 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 - [xin-connect](https://github.com/reekoheek/xin-connect) - Xin REST connection component - [reekoheek](https://github.com/reekoheek)
 - [xin-jwt](https://github.com/reekoheek/xin-jwt) - JWT Middleware Component - [reekoheek](https://github.com/reekoheek)
 - [xin-lazy-img](https://github.com/reekoheek/xin-lazy-img) - Xin lazy image component - [reekoheek](https://github.com/reekoheek)
+- [xin-map](https://github.com/reekoheek/xin-map) - Xin map component - [reekoheek](https://github.com/reekoheek)
 - [xin-markdown](https://github.com/reekoheek/xin-markdown) - Xin markdown component - [reekoheek](https://github.com/reekoheek)
 - [xin-ui](https://github.com/reekoheek/xin-ui) - Xin UI Components - [reekoheek](https://github.com/reekoheek)
 
