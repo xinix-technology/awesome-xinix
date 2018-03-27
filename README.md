@@ -14,6 +14,7 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 + [Xin](#xin)
 + [Node-Bono](#node-bono)
 + [Node-Norm](#node-norm)
++ [Archetype](#archetype)
 + [Misc](#misc)
 
 ### PHP-Bono
@@ -32,16 +33,14 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 - [xin-ui](https://github.com/reekoheek/xin-ui) - Xin UI Components - [reekoheek](https://github.com/reekoheek)
 
 
-
-
 [:arrow_up: back to top](#grouping)
 
 
 ### Node-Bono
+
 - [bono](https://github.com/xinix-technology/node-bono) - Koa-based web framework - [reekoheek](https://github.com/reekoheek)
 - [bono-auth](https://github.com/reekoheek/node-bono-auth) - Bono Auth Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
 - [bono-norm](https://github.com/reekoheek/node-bono-norm) - Bono Norm Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
-
 
 
 [:arrow_up: back to top](#grouping)
@@ -54,6 +53,13 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 [:arrow_up: back to top](#grouping)
 
+### Archetype
+
+- [xin-bootstrap-example](https://github.com/reekoheek/xin-bootstrap-example) - Xin with Bootstrap example archetype - [reekoheek](https://github.com/reekoheek)
+- [xin-example](https://github.com/reekoheek/xin-example) - Xin with UI example archetype - [reekoheek](https://github.com/reekoheek)
+
+
+[:arrow_up: back to top](#grouping)
 
 ### Misc
 
