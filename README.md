@@ -63,6 +63,7 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 - [bono](https://github.com/xinix-technology/node-bono) - Koa-based web framework - [reekoheek](https://github.com/reekoheek)
 - [bono-auth](https://github.com/reekoheek/node-bono-auth) - Bono Auth Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
+- [bono-file](https://github.com/reekoheek/node-bono-file) - Bono file server - [reekoheek](https://github.com/reekoheek)
 - [bono-io](https://github.com/reekoheek/node-bono-io) - Bono socket.io connection - [reekoheek](https://github.com/reekoheek)
 - [bono-norm](https://github.com/reekoheek/node-bono-norm) - Bono Norm Middleware and Bundle - [reekoheek](https://github.com/reekoheek)
 - [luwak](https://github.com/xinix-technology/luwak) - Node.JS based scrapper engine - [reekoheek](https://github.com/reekoheek)
