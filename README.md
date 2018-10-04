@@ -53,6 +53,7 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 - [xin-map](https://github.com/xinix-technology/xin-map) - Xin map component - [reekoheek](https://github.com/reekoheek)
 - [xin-markdown](https://github.com/reekoheek/xin-markdown) - Xin markdown component - [reekoheek](https://github.com/reekoheek)
 - [xin-openapi](https://github.com/reekoheek/xin-openapi) - Xin openapi component - [reekoheek](https://github.com/reekoheek)
+- [xin-select2](https://github.com/reekoheek/xin-select2) - Xin select2 component - [reekoheek](https://github.com/reekoheek)
 - [xin-rating](https://github.com/reekoheek/xin-rating) - Xin rating component - [reekoheek](https://github.com/reekoheek)
 - [xin-ui](https://github.com/reekoheek/xin-ui) - Xin UI Components - [reekoheek](https://github.com/reekoheek)
 
@@ -112,6 +113,7 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 ### Tools
 
+- [node-migrate](https://github.com/xinix-technology/node-migrate) - Xinix migration tool - [reekoheek](https://github.com/reekoheek)
 - [eslint-config-xinix](https://github.com/xinix-technology/eslint-config-xinix) - Xinix eslint config standard - [reekoheek](https://github.com/reekoheek)
 - [generator-xin](https://github.com/reekoheek/generator-xin) - Yeoman xin generator - [reekoheek](https://github.com/reekoheek)
 - [pas](https://github.com/xinix-technology/pas) - App development package manager - [reekoheek](https://github.com/reekoheek)
