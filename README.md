@@ -113,9 +113,10 @@ Please follow this [Contribution Guide](CONTRIBUTION.md)
 
 ### Tools
 
-- [node-migrate](https://github.com/xinix-technology/node-migrate) - Xinix migration tool - [reekoheek](https://github.com/reekoheek)
 - [eslint-config-xinix](https://github.com/xinix-technology/eslint-config-xinix) - Xinix eslint config standard - [reekoheek](https://github.com/reekoheek)
 - [generator-xin](https://github.com/reekoheek/generator-xin) - Yeoman xin generator - [reekoheek](https://github.com/reekoheek)
+- [node-migrate](https://github.com/xinix-technology/node-migrate) - Xinix migration tool - [reekoheek](https://github.com/reekoheek)
+- [norm-ddl](https://github.com/reekoheek/norm-ddl) - Norm DDL - [reekoheek](https://github.com/reekoheek)
 - [pas](https://github.com/xinix-technology/pas) - App development package manager - [reekoheek](https://github.com/reekoheek)
 - [pas-php](https://github.com/xinix-technology/pas-php) - Pas php helper - [reekoheek](https://github.com/reekoheek)
 
